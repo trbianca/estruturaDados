@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@100;400;500&family=Padauk:wght@700&family=Playfair+Display:wght@700&family=Roboto:wght@300;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.titulo-body{
+    font-family: 'Padauk', sans-serif;
+    color:	#BC8F8F;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
